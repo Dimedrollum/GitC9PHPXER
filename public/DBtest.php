@@ -4,7 +4,7 @@
     if($database->connect_erno>0){
         echo 'Database error'. $database->connect_error;
     }else{
-        echo 'Connected';
+        echo 'Connected!';
     }
     $query = 'SELECT * FROM persons';
     $result = $database->query($query);
@@ -12,5 +12,8 @@
     if (!$result){
         echo 'Database query Error';
     }else{
-        $result;
+        while($row = $result->fetch_asoc()){
+            echo 'Name: '. $row['Name'];
+        }
     }
+    echo 'code completed';
