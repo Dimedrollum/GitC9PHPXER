@@ -1,0 +1,11 @@
+{"ts":1362503045772,"silentsave":true,"restoring":false,"patch":[[]],"length":0}
+{"contributors":[],"silentsave":true,"ts":1362503048384,"patch":[[{"diffs":[[1,"<?p"]],"start1":0,"start2":0,"length1":0,"length2":3}]],"length":3,"saved":false}
+{"ts":1362503049934,"patch":[[{"diffs":[[0,"<?p"],[1,"hp"]],"start1":0,"start2":0,"length1":3,"length2":5}]],"length":5,"saved":false}
+{"ts":1362503052776,"patch":[[{"diffs":[[0,"<?php"],[1,"\n"]],"start1":0,"start2":0,"length1":5,"length2":6}]],"length":6,"saved":false}
+{"ts":1362503054529,"patch":[[{"diffs":[[0,"<?php\n"],[1,"\necho"]],"start1":0,"start2":0,"length1":6,"length2":11}]],"length":11,"saved":false}
+{"ts":1362503057168,"patch":[[{"diffs":[[0,"hp\n\necho"],[1," ''"]],"start1":3,"start2":3,"length1":8,"length2":11}]],"length":14,"saved":false}
+{"ts":1362503061747,"patch":[[{"diffs":[[0,"\n\necho '"],[1,"Hello World"],[0,"'"]],"start1":5,"start2":5,"length1":9,"length2":20}]],"length":25,"saved":false}
+{"ts":1362503063616,"patch":[[{"diffs":[[0,"lo World"],[1,"!"],[0,"'"]],"start1":16,"start2":16,"length1":9,"length2":10}]],"length":26,"saved":false}
+{"ts":1362503065837,"patch":[[{"diffs":[[0," World!'"],[1,";"]],"start1":18,"start2":18,"length1":8,"length2":9}]],"length":27,"saved":false}
+{"ts":1362503072151,"patch":[[{"diffs":[[0,"p\n\necho "],[-1,"'"],[1,"\""],[0,"Hello Wo"]],"start1":4,"start2":4,"length1":17,"length2":17}]],"length":27,"saved":false}
+{"ts":1362503074025,"patch":[[{"diffs":[[0,"rld!"],[-1,"'"],[1,"\""],[0,";"]],"start1":21,"start2":21,"length1":6,"length2":6}]],"length":27,"saved":false}
