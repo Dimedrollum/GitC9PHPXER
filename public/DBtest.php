@@ -12,7 +12,7 @@
     if (!$result){
         echo 'Database query Error';
     }else{
-        while($row = $result->fetch_asoc()){
+        while($row = $result->fetch_assoc()){
             echo 'Name: '. $row['Name'];
         }
     }
