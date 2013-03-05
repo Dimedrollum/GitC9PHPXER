@@ -10,7 +10,7 @@
     $result = $database->query($query);
     
     if (!$result){
-        echo 'Database query Error'
+        echo 'Database query Error';
     }else{
-        $result
+        $result;
     }

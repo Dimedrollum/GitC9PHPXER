@@ -159,3 +159,5 @@
 {"ts":1362492629201,"patch":[[{"diffs":[[0,"rror'\n    }else{"],[1,"\n        \n    }"]],"start1":380,"start2":380,"length1":16,"length2":31}]],"length":411,"saved":false}
 {"ts":1362492634147,"patch":[[{"diffs":[[0,"se{\n        "],[1,"$"],[0,"\n    }"]],"start1":393,"start2":393,"length1":18,"length2":19}]],"length":412,"saved":false}
 {"ts":1362492636618,"patch":[[{"diffs":[[0,"       $"],[1,"result"],[0,"\n    }"]],"start1":398,"start2":398,"length1":14,"length2":20}]],"length":418,"saved":false}
+{"ts":1362492742187,"patch":[[{"diffs":[[0,"y Error'"],[1,";"],[0,"\n    }el"]],"start1":377,"start2":377,"length1":16,"length2":17}]],"length":419,"saved":false}
+{"ts":1362492745150,"patch":[[{"diffs":[[0," $result"],[1,";"],[0,"\n    }"]],"start1":405,"start2":405,"length1":14,"length2":15}]],"length":420,"saved":false}
