@@ -6,4 +6,11 @@
     }else{
         echo 'Connected';
     }
+    $query = 'SELECT * FROM persons';
+    $result = $database->query($query);
     
+    if (!$result){
+        echo 'Database query Error'
+    }else{
+        $result
+    }
